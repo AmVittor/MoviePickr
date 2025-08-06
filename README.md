@@ -5,6 +5,7 @@ Um bot para Discord que sorteia filmes, registra avaliações e gerencia sua lis
 ## 🚀 Funcionalidades
 
 - 📥 **Adicionar filmes** à lista
+- 🗑️ **Remover filmes** à lista
 - 📋 **Listar todos os filmes** disponíveis para assistir
 - 🎲 **Sortear um filme aleatório**
 - ✅ **Confirmar ou recusar** o filme sorteado
