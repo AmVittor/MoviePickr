@@ -74,7 +74,7 @@ def setup_filmes(bot):
             def __init__(self):
                 options = [
                     discord.SelectOption(label=filme, description=f"Remover {filme}")
-                    for filme in filmes[:25]  # limita a 25 opções para evitar sobrecarga
+                    for filme in filmes[:25]
                 ]
                 super().__init__(
                     placeholder="Escolha o filme para remover...",
