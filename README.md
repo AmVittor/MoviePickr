@@ -32,5 +32,15 @@ Um bot para Discord que sorteia filmes, registra avaliações e gerencia sua lis
 
 > ⚠️ O comando `.help` foi renomeado para `.ajuda` para evitar conflitos com o comando interno do Discord.py.
 
-## 🗂 Estrutura de pastas
+## 🛠 Requisitos
+
+- Python 3.10+
+- Bibliotecas:
+  - discord.py (v2+)
+
+Instale os requisitos com:
+
+```bash
+pip install -r requirements.txt
+
 
