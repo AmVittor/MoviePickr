@@ -16,7 +16,6 @@ bot = commands.Bot(command_prefix=".", intents=intents)
 async def on_ready():
     print("Bot inicializado!")
 
-# Registra os comandos dos arquivos separados
 setup_gerais(bot)
 setup_filmes(bot)
 
